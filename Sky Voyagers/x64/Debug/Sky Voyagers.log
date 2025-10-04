@@ -1,0 +1,11 @@
+﻿  Dashboard.cpp
+  Login.cpp
+C:\Users\eyesh\source\repos\Sky Voyagers\Dashboard.h(864,13): warning C4552: '*': result of expression not used
+  (compiling source file 'Dashboard.cpp')
+  
+C:\Users\eyesh\source\repos\Sky Voyagers\Dashboard.h(864,13): warning C4552: '*': result of expression not used
+  (compiling source file 'Login.cpp')
+  
+  Generating Code...
+  Dashboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Sky Voyagers.vcxproj -> C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\SkyVoyagers.exe

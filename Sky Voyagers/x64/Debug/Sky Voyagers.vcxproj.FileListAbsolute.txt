@@ -1,0 +1,6 @@
+C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\Sky Voyagers.vcxproj.AssemblyReference.cache
+C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\SkyVoyagers.Dashboard.resources
+C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\SkyVoyagers.Login.resources
+C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\SkyVoyagers.Registration.resources
+C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\Sky Voyagers.vcxproj.GenerateResource.cache
+C:\Users\eyesh\source\repos\Sky Voyagers\x64\Debug\SkyVoyagers.exe
